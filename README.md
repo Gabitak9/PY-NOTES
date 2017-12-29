@@ -1,3 +1,5 @@
+**[TAREA RAMO UNIVERSIDAD]**
+
 TAREA 4 / LENGUAJES DE PROGRAMACIÓN / 2016-2
 ========================================
 
@@ -82,7 +84,7 @@ PROBANDO py-notes
 ------------------
 - Para clonar el repositorio
 ```
-git clone https://gitlab.labcomp.cl/gsepulve/tarea4LP-2016-2-hmelo-gsepulve
+git clone https://github.com/Gabitak9/PY-NOTES
 ```
 
 - Para iniciar py-notes
