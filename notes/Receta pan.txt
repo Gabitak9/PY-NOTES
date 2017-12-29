@@ -1,0 +1,29 @@
+---------------------------------
+
+NOMBRE ARCHIVO: Receta_pan
+TAGS: receta pan
+FECHA DE CREACION: Thu Nov 17 15:02:31 2016
+ULTIMA MODIFICACION: Thu Nov 17 15:02:46 2016
+
+---------------------------------
+
+>>NOTA:
+
+Ingredientes
+
+    1 kg Harina Leudante
+    20 gr Sal (una cucharada colmada)
+    5 gr Azucar (una cucharadita)
+    50 gr Grasa Vacuna o Manteca (1/2 pocillo de cafe)
+    650 cc Agua (3 tazas de te)
+
+Pasos
+
+    Disolver la Sal y el Azucar en el Agua caliente.
+
+    Colocar la Harina en un bowl. Agregar la Grasa o Manteca (fundida) y de a poco la Salmuera (agua con sal)
+
+    Formar el bollo de masa. Amasar durante aprox. 2 min hasta obtener una masa lisa y suave. Dejar reposar 30 min hasta leudar tapado con un repasador humedo o envuelto en papel film
+
+    Separar y armar bollos del tamaño deseado. Llevar a un horno precalentado a fuego medio hasta dorar bien.
+

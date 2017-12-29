@@ -1,0 +1,29 @@
+---------------------------------
+
+NOMBRE ARCHIVO: Receta_queque
+TAGS: receta queque
+FECHA DE CREACION: Thu Nov 17 00:46:12 2016
+ULTIMA MODIFICACION: Thu Nov 17 00:47:32 2016
+
+---------------------------------
+
+>>NOTA:
+
+Ingredientes
+
+    250 grs harina
+    200 grs margarina
+    200 grs azúcar granulada
+    5 huevos
+    50 cc leche
+    150 grs nueces
+
+Pasos
+
+    Pomar la margarina con el azúcar.
+    Agregar de a uno en uno los huevos hasta formar un batido homogéneo.
+    Agregar la mitad de la harina cernida y volver a batir.
+    Agregar la leche.
+    Agregar el restante de la harina y batir bien hasta que sea un batido homogéneo.
+    Agregar las nueces y poner la mezcla en un molde enmantequillado y enharinado, llevar al horno por 40 minutos a 180°C.
+    Desmoldar y dejar enfriar antes de servir.

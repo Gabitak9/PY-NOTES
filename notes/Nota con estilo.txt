@@ -1,0 +1,18 @@
+---------------------------------
+
+NOMBRE ARCHIVO: Nota con estilo
+TAGS: 
+FECHA DE CREACION: Fri Nov 18 01:36:31 2016
+ULTIMA MODIFICACION: no modificado
+
+---------------------------------
+
+>>NOTA:
+
+Este es un texto de prueba <red> rojo </>. Deberia funcionar con varios colores como el <green> verde, </>
+<yellow> amarillo, </> <blue> azul </> y tambien un quinto color, llamado <cyan> cyan. </>
+
+Pero no solo eso, tambien podemos <bold> enegrecer palabras </>, o si quisieramos podriamos poner de forma
+<cursive> cursiva </> o incluso <underline> subrayar </>.
+
+Espero que funcione!
